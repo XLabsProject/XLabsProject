@@ -4,6 +4,24 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog v0.3.0](http://keepachangelog.com/en/0.3.0/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [0.6.2] - 2021-XX-XX
+
+### Added
+
+- x
+
+### Changed
+
+- x
+
+### Fixed
+
+- x
+
+### Known issues
+
+- HTTPS is not supported for fast downloads at the moment.
+
 ## [0.6.1] - 2020-12-23
 
 ### Added
