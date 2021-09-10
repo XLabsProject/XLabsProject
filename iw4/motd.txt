@@ -1,1 +1,1 @@
-^3IW4x 0.6.2 out now! Native Controller Support with Aim Assist! ^7| Support us on Patreon to get special rewards: ^1patreon.com/XLabsProject ^7| Follow us on Twitter: ^5@XLabsProject ^7| Visit ^2https://xlabs.dev ^7for more info!
+^3IW4x 0.7.0 out now! Native Controller Support with Aim Assist! ^7| Support us on Patreon to get special rewards: ^1patreon.com/XLabsProject ^7| Follow us on Twitter: ^5@XLabsProject ^7| Visit ^2https://xlabs.dev ^7for more info!
